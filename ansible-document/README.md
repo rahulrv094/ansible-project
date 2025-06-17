@@ -1,5 +1,3 @@
-Here's a well-structured and clean version of your content formatted for a `.md` (Markdown) file. I’ve also corrected and formatted the architecture diagram for better clarity and alignment:
-
 ````markdown
 # Chapter 1: Introduction to Ansible & Use Cases
 
