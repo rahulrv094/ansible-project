@@ -1,5 +1,7 @@
-````markdown
-# Chapter 1: Introduction to Ansible & Use Cases
+
+### Chapter 1: Introduction to Ansible & Use Cases
+
+---
 
 ## What is Ansible?
 
